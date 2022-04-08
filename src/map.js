@@ -215,6 +215,18 @@ var legends = {
         elem7: '',
         elem8: "CSO Censo Población y Vivienda 2011",
     },
+    D_SALUD: {
+        title: "Proximidad centros de salud",
+        subtitle: "m", 
+        elem1: '<div><span  style= "color:#1a9641">▉</span>32 - 500</div>',
+        elem2: '<div><span  style= "color:#a6d96a">▉</span>502 - 1000</div>',
+        elem3: '<div><span  style= "color:#f4f466">▉</span>1002 - 2000</div>',
+        elem4: '<div><span  style= "color:#fdae61">▉</span>2003 - 3000</div>',
+        elem5: '<div><span  style= "color:#d7191c">▉</span>3000 - 4681</div>',
+        elem6: '',
+        elem7: '',
+        elem8: "CSO Censo Población y Vivienda 2011",
+    },
     DESOCU: {
         title: "Población desempleada (en búsqueda de trabajo)",
         subtitle: "%", 
